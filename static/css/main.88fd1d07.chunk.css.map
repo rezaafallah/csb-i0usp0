@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,UAAW,CACX,YACF,CAEA,iBACE,2BACF","file":"main.88fd1d07.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  width: 100%;\n  height: 100vh;\n}\n\n.mapboxgl-canvas {\n  position: relative !important;\n}\n"]}
